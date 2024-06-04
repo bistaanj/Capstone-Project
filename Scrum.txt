@@ -1,0 +1,40 @@
+UI 
+Market page 
+Product info page 
+Checkout page 
+Post Product page
+Cart 
+blogs page 
+
+Forms 
+Post product for sale 
+Checkout 
+Create Blog
+
+
+
+Functions 
+Search Products 
+	Filter based on sales type
+		 : Onsale 
+	         : Auction 
+	Filter based on Product type
+		: Livestock
+		: Plant
+		: Seeds
+
+Database
+Create  - Post a sale 
+	- Post an auction
+	- Post a blog
+	- Make a bid 
+	-
+Read	- View products in Market page
+	- View Product info
+	- view blogs 
+	- Search Products
+
+Update	- Products Sold 
+	- Information regarding product displayed for sale
+
+
